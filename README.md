@@ -25,8 +25,7 @@
 
 <br>
 
-> [!NOTE]  
-> Ace your Frontend UI coding interview rounds with [Frontend Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges) for free
+> Become a better software engineer by working on projects that actually challenge you at [CodeCrafters](https://app.codecrafters.io/join?via=sadanandpai)
 
 <br>
 
@@ -155,6 +154,7 @@
 <strong>Web Performance</strong>
 
 - 📗&nbsp;&nbsp;[MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+- 📗&nbsp;&nbsp;[Core Web Vitals](https://web.dev/vitals/)
 - 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/#performance)
 - 📗&nbsp;&nbsp;[Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - 📗&nbsp;&nbsp;[Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
@@ -165,6 +165,8 @@
 <strong>Web Security</strong>
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
+- 📗&nbsp;&nbsp;[Google Web Fundamentals: Security](https://web.dev/security/)
+- 📗&nbsp;&nbsp;[MDN Web Docs: Security](https://developer.mozilla.org/en-US/docs/Web/Security)
 
 <br>
 
@@ -172,6 +174,25 @@
 
 - 🎥&nbsp;&nbsp;[Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥&nbsp;&nbsp;[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
+- 📗&nbsp;&nbsp;[Web Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+<br>
+
+<strong>Frontend Testing</strong>
+
+- 📗&nbsp;&nbsp;[Vitest](https://vitest.dev/)
+- 📗&nbsp;&nbsp;[Jest Docs](https://jestjs.io/)
+- 📗&nbsp;&nbsp;[Cypress](https://www.cypress.io/)
+- 🎥&nbsp;&nbsp;[JavaScript unit testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
+- 📘&nbsp;&nbsp;[The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
+
+<br>
+
+<strong>Progressive Web Apps (PWAs)</strong>
+
+- 📗&nbsp;&nbsp;[MDN Guide to PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- 📗&nbsp;&nbsp;[Google Developers: PWAs](https://web.dev/progressive-web-apps/)
+- 🎥&nbsp;&nbsp;[PWA - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/?couponCode=24T2MT111824)
 
 <br>
 
@@ -187,8 +208,6 @@
 
 - 📘&nbsp;&nbsp;[Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 - 🎥&nbsp;&nbsp;[Writing Clean Code](https://www.udemy.com/course/writing-clean-code/)
-- 🎥&nbsp;&nbsp;[JavaScript unit testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
-- 📘&nbsp;&nbsp;[The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 - 🎥&nbsp;&nbsp;[MicroFrontends](https://www.udemy.com/course/microfrontend-course)
 
 <br>
@@ -225,6 +244,7 @@
 - 🎥&nbsp;&nbsp;[Namaste System Design](https://namastedev.com/learn/namaste-frontend-system-design)
 - 🎥&nbsp;&nbsp;[Chakde System Design](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
 - 🎥&nbsp;&nbsp;[Frontend System Design Course](https://alpha.learnersbucket.com/)
+- 📗&nbsp;&nbsp;[Frontend Geek](https://www.frontendgeek.com/frontend-interview/system-design)
 
 <br>
 
@@ -275,10 +295,29 @@
 - 🚉&nbsp;&nbsp;[Edabit](https://edabit.com/challenges)
 - 🚉&nbsp;&nbsp;[Dev Challenges](https://devchallenges.io/)
 - 🚉&nbsp;&nbsp;[Codewell](https://www.codewell.cc/)
-- 🚉&nbsp;&nbsp;[I Code This](https://icodethis.com/)
+- 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/)
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
+- 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/)
+
+<br>
+
+<strong>Frontend Deployment Platforms</strong>
+
+- 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
+- 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
+- 📗&nbsp;&nbsp;[Firebase Hosting](https://firebase.google.com/docs/hosting)
+- 📗&nbsp;&nbsp;[AWS Amplify](https://aws.amazon.com/amplify/)
+- 📗&nbsp;&nbsp;[GitHub Pages](https://pages.github.com/)
+
+<br>
+
+<strong>Browser DevTools</strong>
+
+- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
 ---
 
@@ -288,7 +327,7 @@
 - 📘&nbsp;&nbsp;[The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
 - 📘&nbsp;&nbsp;[Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - 📁&nbsp;&nbsp;[Javascript Algo](https://github.com/trekhleb/javascript-algorithms)
-- 🎥&nbsp;&nbsp;[DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
+- 📗&nbsp;&nbsp;[DSA Interview Challenges](https://dsa-interview-challenges.vercel.app/)
 - 🎥&nbsp;&nbsp;[Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
 - 🎥&nbsp;&nbsp;[JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
 - 🎥&nbsp;&nbsp;[JS algorithms and data structures masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
@@ -298,10 +337,11 @@
 <strong>DSA youtube</strong>
 
 - 🎥&nbsp;&nbsp;[Adbul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- 🎥&nbsp;&nbsp;[Take U Forward](https://www.youtube.com/@takeUforward/)
+- 🎥&nbsp;&nbsp;[JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
 - 🎥&nbsp;&nbsp;[Jenny's Lectures](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - 🎥&nbsp;&nbsp;[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - 🎥&nbsp;&nbsp;[Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-- 🎥&nbsp;&nbsp;[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 <br>
 
@@ -317,6 +357,7 @@
 
 - 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
 - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/)
+- 📗&nbsp;&nbsp;[React Basics](https://learning-zone.github.io/react-basics/)
 - 📗&nbsp;&nbsp;[FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
 - 📗&nbsp;&nbsp;[React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
 - 📗&nbsp;&nbsp;[React by Example](https://reactbyexample.github.io/)
@@ -326,10 +367,11 @@
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 - 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
+
   <br>
 
 ---
 
 ### License
 
-This repository is MIT licensed. [Read more](./LICENSE)
+This repository is MIT-licensed. [Read more](./LICENSE)
