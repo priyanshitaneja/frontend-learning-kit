@@ -289,6 +289,7 @@
 - 🚉&nbsp;&nbsp;[Frontend Lead](https://frontendlead.com/)
 - 🚉&nbsp;&nbsp;[CSS Battle](https://cssbattle.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Hire](https://www.frontendhire.com/)
+- 🚉&nbsp;&nbsp;[Kode Karma](https://www.kodekarma.dev/)
 - 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Churn](https://www.algochurn.com/frontend)
 - 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
@@ -365,6 +366,7 @@
 - 📗&nbsp;&nbsp;[React Patterns](https://reactpatterns.com/)
 - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+- 📗&nbsp;&nbsp;[Web-Dev-For-Beginners - by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 - 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
 
